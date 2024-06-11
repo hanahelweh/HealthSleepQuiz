@@ -1,0 +1,139 @@
+{
+  "questions": [
+    {
+      "question": "How many hours of sleep do you get on an average night?",
+      "options": [
+        {"option":"Less than 5 hours","point":1},
+        {"option":"5-6 hours","point":2},
+        {"option":"7-8 hours","point":3},
+        {"option":"More than 8 hours","point":4}
+      ]
+    },
+    {
+      "question": "How often do you have trouble falling asleep?",
+      "options": [
+        {"option":"Almost every night","point":1},
+        {"option":"A few times a week","point":2},
+        {"option":"Rarely","point":3},
+        {"option":"Never","point":4}
+      ]
+    },
+    {
+      "question": "How consistent is your sleep schedule (going to bed and waking up at the same time every day)?",
+      "options": [
+        {"option":"Not consistent at all","point":1},
+        {"option":"Somewhat consistent","point":2},
+        {"option":"Mostly consistent","point":3},
+        {"option":"Very consistent","point":4}
+      ]
+    },
+    {
+      "question": "Do you wake up feeling rested and refreshed?",
+      "options": [
+        {"option":"Never","point":1},
+        {"option":"Rarely","point":2},
+        {"option":"Sometimes","point":3},
+        {"option":"Often","point":4}
+      ]
+    },
+    {
+      "question": "How often do you wake up during the night?",
+      "options": [
+        {"option":"Multiple times","point":1},
+        {"option":"Once","point":2},
+        {"option":"Rarely","point":3},
+        {"option":"Never","point":4}
+      ]
+    },
+    {
+      "question": "Do you take naps during the day?",
+      "options": [
+        {"option":"Every day","point":1},
+        {"option":"A few times a week","point":2},
+        {"option":"Occasionally","point":3},
+        {"option":"Rarely or never","point":4}
+      ]
+    },
+    {
+      "question": "Do you consume caffeine or alcohol before bedtime?",
+      "options": [
+        {"option":"Every day","point":1},
+        {"option":"A few times a week","point":2},
+        {"option":"Occasionally","point":3},
+        {"option":"Rarely or never","point":4}
+      ]
+    },
+    {
+      "question": "Do you use electronic devices (phones, tablets, computers) right before bed?",
+      "options": [
+        {"option":"Every night","point":1},
+        {"option":"A few times a week","point":2},
+        {"option":"Occasionally","point":3},
+        {"option":"Rarely or never","point":4}
+      ]
+    },
+    {
+      "question": "How comfortable is your sleep environment (bed, pillow, room temperature)?",
+      "options": [
+        {"option":"Not comfortable at all","point":1},
+        {"option":"Somewhat comfortable","point":2},
+        {"option":"Comfortable","point":3},
+        {"option":"Very comfortable","point":4}
+      ]
+    },
+    {
+      "question": "Do you experience stress or anxiety that affects your sleep?",
+      "options": [
+        {"option":"Every night","point":1},
+        {"option":"A few times a week","point":2},
+        {"option":"Occasionally","point":3},
+        {"option":"Rarely or never","point":4}
+      ]
+    },
+    {
+      "question": "Do you exercise regularly?",
+      "options": [
+        {"option":"Never","point":1},
+        {"option":"A few times a month","point":2},
+        {"option":"A few times a week","point":3},
+        {"option":"Most days","point":4}
+      ]
+    },
+    {
+      "question": "Do you eat heavy meals right before bedtime?",
+      "options": [
+        {"option":"Every night","point":1},
+        {"option":"A few times a week","point":2},
+        {"option":"Occasionally","point":3},
+        {"option":"Rarely or never","point":4}
+      ]
+    },
+    {
+      "question": "How often do you snore or have breathing difficulties during sleep?",
+      "options": [
+        {"option":"Every night","point":1},
+        {"option":"A few times a week","point":2},
+        {"option":"Occasionally","point":3},
+        {"option":"Rarely or never","point":4}
+      ]
+    },
+    {
+      "question": "Do you use sleep aids (medication, supplements) to fall asleep?",
+      "options": [
+        {"option":"Every night","point":1},
+        {"option":"A few times a week","point":2},
+        {"option":"Occasionally","point":3},
+        {"option":"Rarely or never","point":4}
+      ]
+    },
+    {
+      "question": "Do you follow a relaxing bedtime routine (reading, meditation)?",
+      "options": [
+        {"option":"Never","point":1},
+        {"option":"A few times a week","point":2},
+        {"option":"Occasionally","point":3},
+        {"option":"Most nights","point":4}
+      ]
+    }
+  ]
+}
